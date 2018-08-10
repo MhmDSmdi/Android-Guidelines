@@ -8,10 +8,10 @@ Awesome Link and Resource for learning Android Basic To Advance
  
 ### Important Library
  * RxJava
-..* [part1(Grokking RxJava)](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
-..* [part2(Grokking RxJava)](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-2/)
-..* [part3(Grokking RxJava)](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-3/)
-..* [part4(Grokking RxJava)](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-4/)
+ ..* [part1(Grokking RxJava)](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/) 
+ ..* [part2(Grokking RxJava)](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-2/)
+ ..* [part3(Grokking RxJava)](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-3/)
+ ..* [part4(Grokking RxJava)](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-4/)
  
 ## Basic
 
