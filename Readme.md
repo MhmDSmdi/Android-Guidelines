@@ -8,6 +8,7 @@ Awesome Link and Resource for learning Android Basic To Advance
  * [Basic Of MVP](https://hackernoon.com/basics-of-mvp-the-android-way-f75da407019d)
  * [Google Android Architecture Sample](https://github.com/googlesamples/android-architecture)
  * [MVP vs MVC](https://stackoverflow.com/questions/2056/what-are-mvp-and-mvc-and-what-is-the-difference)
+ * [MVP Guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf)
 ### Important Library
  * RxJava
    - [part1(Grokking RxJava)](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/) 
