@@ -1,7 +1,17 @@
 # BestArticle_Android
 Awesome Link and Resource for learning Android Basic To Advance
 
+## Basic
+
+* Retrofit
+   - [square](http://square.github.io/retrofit/)
+   - [futurestudio](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client)
+   - [Advance Retrofit](http://www.vogella.com/tutorials/Retrofit/article.html)
+* Glide
+   - [futurestudio](https://futurestud.io/tutorials/glide-getting-started)
+
 ## Advance
+
 ### Design Pattern & Architecting
  * [Architecting Android part1(architecting-android-the-clean-way)](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
  * [Architecting Android part2(architecting-android-the-evolution)](https://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
@@ -24,10 +34,3 @@ Awesome Link and Resource for learning Android Basic To Advance
    - [OkHttp wiki Github](https://github.com/square/okhttp/wiki)
 * ObjectBox (NoSQL Database)
    - [Fast embedded database for small devices](https://objectbox.io/)
-## Basic
-* Retrofit
-   - [square](http://square.github.io/retrofit/)
-   - [futurestudio](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client)
-   - [Advance Retrofit](http://www.vogella.com/tutorials/Retrofit/article.html)
-* Glide
-   - [futurestudio](https://futurestud.io/tutorials/glide-getting-started)
