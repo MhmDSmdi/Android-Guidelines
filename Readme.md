@@ -21,12 +21,13 @@ Awesome Link and Resource for learning Android Basic To Advance
    - [part1(Mindork)](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-1-223289c2a01b#.ki6nt86l6)
    - [part2(Mindork)](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-2-b55857911bcd#.mkpzyk8sa)
 * OkHttp
-   -[OkHttp wiki Github](https://github.com/square/okhttp/wiki)
+   - [OkHttp wiki Github](https://github.com/square/okhttp/wiki)
 * ObjectBox (NoSQL Database)
-   -[Fast embedded database for small devices](https://objectbox.io/)
+   - [Fast embedded database for small devices](https://objectbox.io/)
 ## Basic
 * Retrofit
    - [square](http://square.github.io/retrofit/)
    - [futurestudio](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client)
+   - [Advance Retrofit](http://www.vogella.com/tutorials/Retrofit/article.html)
 * Glide
    - [futurestudio](https://futurestud.io/tutorials/glide-getting-started)
