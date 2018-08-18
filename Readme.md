@@ -9,12 +9,16 @@ Awesome Link and Resource for learning Android Basic To Advance
  * [Google Android Architecture Sample](https://github.com/googlesamples/android-architecture)
  * [MVP vs MVC](https://stackoverflow.com/questions/2056/what-are-mvp-and-mvc-and-what-is-the-difference)
  * [MVP Guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf)
+ * [MVP Example](https://github.com/MindorksOpenSource/android-mvp-architecture)
 ### Important Library
  * RxJava
    - [part1(Grokking RxJava)](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/) 
    - [part2(Grokking RxJava)](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-2/)
    - [part3(Grokking RxJava)](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-3/)
    - [part4(Grokking RxJava)](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-4/)
- 
+* Dagger2
+   - [part0(Mindork](https://blog.mindorks.com/android-dagger2-critical-things-to-know-before-you-implement-275663aecc3e#.bskiz1879)
+   - [part1(Mindork)](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-1-223289c2a01b#.ki6nt86l6)
+   - [part2(Mindork)](https://blog.mindorks.com/introduction-to-dagger-2-using-dependency-injection-in-android-part-2-b55857911bcd#.mkpzyk8sa)
 ## Basic
 
