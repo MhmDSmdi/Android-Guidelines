@@ -1,16 +1,18 @@
 # BestArticle_Android
 Awesome Link and Resource for learning Android Basic To Advance
 
-## Basic
-
+### Basic Consept
+ * [Developer.android](https://developer.android.com/training/basics/firstapp/)
+ * [Androidhive](https://www.androidhive.info/)
+ * [Vogella](http://www.vogella.com/tutorials/android.html)
+   
+### BasicLibrary
 * Retrofit
    - [square](http://square.github.io/retrofit/)
    - [futurestudio](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client)
    - [Advance Retrofit](http://www.vogella.com/tutorials/Retrofit/article.html)
 * Glide
    - [futurestudio](https://futurestud.io/tutorials/glide-getting-started)
-
-## Advance
 
 ### Design Pattern & Architecting
  * [Architecting Android part1(architecting-android-the-clean-way)](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
@@ -20,7 +22,8 @@ Awesome Link and Resource for learning Android Basic To Advance
  * [MVP vs MVC](https://stackoverflow.com/questions/2056/what-are-mvp-and-mvc-and-what-is-the-difference)
  * [MVP Guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf)
  * [MVP Example](https://github.com/MindorksOpenSource/android-mvp-architecture)
-### Important Library
+ 
+### Advance Library
  * RxJava
    - [part1(Grokking RxJava)](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/) 
    - [part2(Grokking RxJava)](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-2/)
