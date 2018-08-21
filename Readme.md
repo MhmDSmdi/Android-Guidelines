@@ -13,9 +13,8 @@ Awesome Link and Resource for learning Android Basic To Advance
    - [Advance Retrofit](http://www.vogella.com/tutorials/Retrofit/article.html)
 * Glide
    - [futurestudio](https://futurestud.io/tutorials/glide-getting-started)
-   
 * Moshi (JsonConverter and Serializer)
-   -[githubDoc](https://github.com/square/moshi)
+   - [githubDoc](https://github.com/square/moshi)
 
 ### Design Pattern & Architecting
  * [Architecting Android part1(architecting-android-the-clean-way)](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
